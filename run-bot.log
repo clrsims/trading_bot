@@ -1,0 +1,50 @@
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 1 contracts
+[first_bot] ORDER FAILED due to insufficient funds
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 1 contracts
+[first_bot] ORDER FAILED due to insufficient funds
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 1 contracts
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 1 contracts
+[first_bot] ORDER FAILED due to insufficient funds
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 0.01 contracts
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 0.01 contracts
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 0.01 contracts
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
+[first_bot] Starting bot...
+[first_bot] bond: out all orders
+[first_bot] Auto buying because best_bid 1001 is above 1000.
+[first_bot] bond: 1001 for 0.01 contracts
+[first_bot] bond: 0.001 contracts at 1000
+[first_bot] etf: out all orders
